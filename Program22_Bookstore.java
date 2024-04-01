@@ -7,7 +7,7 @@
         Sample Class: InventoryManager - Provides methods to add new books to inventory, update stock levels, and retrieve book details.
     (A Folder Named 'bookstore' which contains 2 files - 'book' & 'inventory'. 'book' contains definition of 'Book' Class. 'inventory' contains definition of 'InventoryManager' Class. ) */
 
-// Date : 13/03/2024, Author : Yash Wadhvani
+
 
 import bookstore.*;
 
