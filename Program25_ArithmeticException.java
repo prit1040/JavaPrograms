@@ -1,5 +1,5 @@
 // Write a java program using try-catch block to handle java.lang.ArithmeticException.
-// Date : 20/03/2024, Author : Yash Wadhvani
+
 
 public class Program25_ArithmeticException {
     public static void main(String[] args) {
