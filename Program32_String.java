@@ -1,5 +1,5 @@
 // Write a java program that uses any 5 methods of "String" class.
-// Date : 31/03/2024, Author : Yash Wadhvani
+
 public class Program32_String {
     public static void main(String[] args) {
         String str1 = "Hello";
