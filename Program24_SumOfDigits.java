@@ -1,5 +1,5 @@
 // Write a java program to find sum of digits in a given number.
-// Date : 13/03/2024, Author : Yash Wadhvani
+
 
 import java.util.Scanner;
 
