@@ -1,5 +1,5 @@
 // Write a java program to find the factorial of a number entered by the user.
-// Date : 13/03/2024, Author : Yash Wadhvani
+
 
 import java.util.Scanner;
 
