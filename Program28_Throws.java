@@ -1,5 +1,5 @@
 // Write a java program using throws keyword to handle custom exception.
-// Date : 20/03/2024, Author : Yash Wadhvani
+
 
 import java.util.Scanner;
 
